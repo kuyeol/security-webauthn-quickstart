@@ -8,7 +8,7 @@ This guide demonstrates how your Quarkus application can use a database and WebA
 You need a database to store the user identities/credentials. Here, we are using [PostgreSQL](https://www.postgresql.org).
 To ease the setup, we have provided a `docker-compose.yml` file which start a PostgreSQL container and bind the network ports.
 
-The database can be started using:
+The database1 can be started using:
  ```bash
  docker-compose up
  ```
