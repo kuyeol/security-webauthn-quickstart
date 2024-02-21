@@ -1,6 +1,75 @@
 Quarkus Security with WebAuthn
-========================
-스프링 시리 
+================
+
+    플리 시.
+
+**:**
+
+1. :
+2.     * , ,    보 
+3.     *  보  
+4.     *  보 DB 
+2. Minio 스리 :
+3.     *  ,  ID  Minio   
+4.     * Minio   보 JSON  
+**:**
+
+* 프: React
+* * : Quarkus
+* * 스:
+*     *  스
+*     * Minio 스리 스
+* * 스: PostgreSQL
+* *  스리: Minio
+* * : Docker
+* * AI :
+*     *  리 (  )
+*     *   (Quarkus 스   )
+** :**
+
+*   Minio 스리   리 스 
+* * Docker   스  
+* * React     스 
+* *  보 PostgreSQL 스 
+* * Minio   보 JSON   스리 
+* * AI     Minio 스리      
+* *  스   
+**:**
+* Quarkus: https://quarkus.io/
+* * Minio: https://min.io/
+* * Docker: https://www.docker.com/
+* * React: https://reactjs.org/
+* * PostgreSQL: https://www.postgresql.org/
+**AI   :**
+* 스 아  
+* * Quarkus  
+* * Minio API 
+* * React UI  
+* * PostgreSQL 스  
+** :**
+* AI      시 
+* *  리 스   보   
+* * Docker     
+* *    스 
+** :**
+*  보     
+* * Minio  리  
+* * 보안   (HTTPS, CSRF  )
+**:**
+* AI   아       .
+* * 보안  안  플리  스 .
+* AI  :
+Google AI Code Transformer: [  URL ]
+* OpenAI Codex: https://openai.com/blog/openai-codex/
+* Github Copilot: https://github.com/features/copilot
+* AI  :
+    AI  
+:
+ 프프 AI   Quarkus  스 플리    시.    시   보    플리   .
+
+
+
+Gemini     보 시       .  보 보  Gemini 
 
 
 
