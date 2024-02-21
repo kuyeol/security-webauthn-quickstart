@@ -124,7 +124,9 @@ mvn test
 mvn verify -Pnative
 ```
 
-## Running in native
+```            
+Running in native
+```
 
 You can compile the application into a native binary using:
 
